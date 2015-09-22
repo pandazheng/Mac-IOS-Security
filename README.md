@@ -103,6 +103,8 @@ xnu local privilege escalation via cve-2015-1140 IOHIDSecurePromptClient injectS
 https://github.com/kpwn/vpwn
 MachOView
 https://github.com/gdbinit/MachOView
+A cross-platform protocol library to communicate with iOS devices
+https://github.com/libimobiledevice/libimobiledevice
 
 
 (4)	IOS安全优秀书籍
