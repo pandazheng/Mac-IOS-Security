@@ -15,6 +15,7 @@ http://yonsm.net/
 http://nianxi.net/
 https://github.com/pandazheng/iOSAppReverseEngineering
 http://drops.wooyun.org
+http://bbs.pediy.com
 
 (2)	IOS安全优秀博客文章
 https://github.com/secmobi/wiki.secmobi.com
@@ -98,6 +99,10 @@ Re-codesigning tool for iOS ipa file
 https://github.com/hayaq/recodesign
 Scans iPhone/iPad/iPod applications for PIE flags
 https://github.com/stefanesser/.ipa-PIE-Scanner
+xnu local privilege escalation via cve-2015-1140 IOHIDSecurePromptClient injectStringGated heap overflow | poc||gtfo
+https://github.com/kpwn/vpwn
+MachOView
+https://github.com/gdbinit/MachOView
 
 
 (4)	IOS安全优秀书籍
