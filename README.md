@@ -105,7 +105,10 @@ MachOView
 https://github.com/gdbinit/MachOView
 A cross-platform protocol library to communicate with iOS devices
 https://github.com/libimobiledevice/libimobiledevice
-
+WireLurkerDetector
+https://github.com/pandazheng/WireLurker
+Released in accordance with GPL licensing
+https://github.com/p0sixspwn/p0sixspwn
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
