@@ -109,6 +109,8 @@ WireLurkerDetector
 https://github.com/pandazheng/WireLurker
 Released in accordance with GPL licensing
 https://github.com/p0sixspwn/p0sixspwn
+xnu local privilege escalation via cve-2015
+https://github.com/kpwn/tpwn
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
