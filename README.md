@@ -113,6 +113,8 @@ xnu local privilege escalation via cve-2015
 https://github.com/kpwn/tpwn
 A simple universal memory editor (game trainer) on OSX/iOS
 https://github.com/pandazheng/HippocampHairSalon
+BinaryCookieReader源码
+https://github.com/pandazheng/BinaryCookieReader
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
