@@ -111,6 +111,8 @@ Released in accordance with GPL licensing
 https://github.com/p0sixspwn/p0sixspwn
 xnu local privilege escalation via cve-2015
 https://github.com/kpwn/tpwn
+A simple universal memory editor (game trainer) on OSX/iOS
+https://github.com/pandazheng/HippocampHairSalon
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
