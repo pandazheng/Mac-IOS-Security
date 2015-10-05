@@ -5,6 +5,7 @@ http://samdmarshall.com
 https://www.exploit-db.com
 https://reverse.put.as
 http://security.ios-wiki.com
+http://www.opensecuritytraining.info/IntroARM.html
 https://truesecdev.wordpress.com/
 http://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/
 http://esoftmobile.com/2014/02/14/ios-security/
