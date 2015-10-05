@@ -18,6 +18,7 @@ http://drops.wooyun.org
 http://bbs.pediy.com
 
 (2)	IOS安全优秀博客文章
+http://datatheorem.github.io/TrustKit/
 https://github.com/secmobi/wiki.secmobi.com
 http://bbs.iosre.com/t/debugserver-lldb-gdb/65
 http://bbs.pediy.com/showthread.php?t=193859
@@ -115,6 +116,12 @@ A simple universal memory editor (game trainer) on OSX/iOS
 https://github.com/pandazheng/HippocampHairSalon
 BinaryCookieReader源码
 https://github.com/pandazheng/BinaryCookieReader
+Tiamo's bootloader
+https://github.com/pandazheng/macosxbootloader
+incomplete ios 8.4.1 jailbreak by Kim Jong Cracks
+https://github.com/pandazheng/yalu
+Security Scanner for OSX
+https://github.com/openscanner/XGuardian
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
