@@ -131,6 +131,12 @@ Sample Mac OS X (Mountain Lion) kernel extension that demonstrates how to hide f
 https://github.com/rc0r/FileHider
 Sample Mac OS X (Mountain Lion) kernel extension that demonstrates how to hide a process by modifying allproc and pidhashtbl
 https://github.com/rc0r/ProcessHider
+The Mach-O disassembler. Now 64bit and Xcode 6 compatible
+https://github.com/x43x61x69/otx
+A Mach-O binary codesign remover
+https://github.com/x43x61x69/codeunsign
+A Mach-O Load Command deobfuscator
+https://github.com/x43x61x69/Mach-O-Prettifier
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
