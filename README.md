@@ -123,6 +123,14 @@ incomplete ios 8.4.1 jailbreak by Kim Jong Cracks
 https://github.com/pandazheng/yalu
 Security Scanner for OSX
 https://github.com/openscanner/XGuardian
+Sample kernel extension that demonstrates how to hide from kextstat
+https://github.com/rc0r/KextHider
+Example Mac OS X kernel extension that resolves symbols from the running kernel image
+https://github.com/snare/KernelResolver
+Sample Mac OS X (Mountain Lion) kernel extension that demonstrates how to hide files by hijacking getdirentries* syscalls
+https://github.com/rc0r/FileHider
+Sample Mac OS X (Mountain Lion) kernel extension that demonstrates how to hide a process by modifying allproc and pidhashtbl
+https://github.com/rc0r/ProcessHider
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
