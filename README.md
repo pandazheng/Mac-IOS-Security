@@ -20,6 +20,7 @@ http://bbs.pediy.com
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
+http://ho.ax/posts/2012/02/resolving-kernel-symbols/
 https://github.com/secmobi/wiki.secmobi.com
 http://bbs.iosre.com/t/debugserver-lldb-gdb/65
 http://bbs.pediy.com/showthread.php?t=193859
