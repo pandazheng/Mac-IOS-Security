@@ -38,6 +38,8 @@ XCodeGhost清除脚本
 https://github.com/pandazheng/XCodeGhost-Clean
 Apple OS X ROOT提权API后门
 https://github.com/tihmstar/rootpipe_exploit
+Effortless and universal SSL pinning for iOS and OS X
+https://github.com/datatheorem/TrustKit
 Dylib插入Mach-O文件
 https://github.com/Tyilo/insert_dylib
 OSX dylib injection
