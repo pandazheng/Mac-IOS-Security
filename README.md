@@ -140,6 +140,8 @@ A Mach-O Load Command deobfuscator
 https://github.com/x43x61x69/Mach-O-Prettifier
 Very simple keylogger for self-quantifying on Mac OS X
 https://github.com/dannvix/keylogger-osx
+Manage iOS devices through iTunes lib
+https://github.com/xslim/mobileDeviceManager
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
