@@ -28,6 +28,7 @@ http://bbs.pediy.com/showthread.php?t=192657&viewgoodnees=1&prefixid=
 http://blog.darkrainfall.org/2013/01/os-x-internals/
 http://dvlabs.tippingpoint.com/blog/2009/03/06/reverse-engineering-iphone-appstore-binaries
 http://drops.wooyun.org/papers/5309
+http://www.blogfshare.com/category/ios-secure
 https://www.safaribooksonline.com/library/view/hacking-and-securing/9781449325213/ch08s04.html
 http://soundly.me/osx-injection-override-tutorial-hello-world/
 https://nadavrub.wordpress.com/2015/07/23/injecting-code-to-an-ios-appstore-app/
