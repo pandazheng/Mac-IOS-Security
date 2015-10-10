@@ -42,6 +42,8 @@ Effortless and universal SSL pinning for iOS and OS X
 https://github.com/datatheorem/TrustKit
 Dylib插入Mach-O文件
 https://github.com/Tyilo/insert_dylib
+Binary distribution of the libimobiledevice library for Mac OS X
+https://github.com/benvium/libimobiledevice-macosx
 OSX dylib injection
 https://github.com/scen/osxinj
 IOS IPA package refine and resign
