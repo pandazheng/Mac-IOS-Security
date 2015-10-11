@@ -35,6 +35,8 @@ https://nadavrub.wordpress.com/2015/07/23/injecting-code-to-an-ios-appstore-app/
 
 
 (3)	IOS安全优秀GitHub
+Contains all example codes for O'Reilly's iOS 9 Swift Programming Cookbook 
+https://github.com/vandadnp/iOS-9-Swift-Programming-Cookbook
 XCodeGhost清除脚本
 https://github.com/pandazheng/XCodeGhost-Clean
 Apple OS X ROOT提权API后门
