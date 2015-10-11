@@ -147,6 +147,8 @@ Very simple keylogger for self-quantifying on Mac OS X
 https://github.com/dannvix/keylogger-osx
 Manage iOS devices through iTunes lib
 https://github.com/xslim/mobileDeviceManager
+Detects the hardware, software and display of the current iOS or Mac OS X device at runtime
+https://github.com/lmirosevic/GBDeviceInfo
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
