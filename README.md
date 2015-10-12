@@ -43,6 +43,8 @@ Apple OS X ROOT提权API后门
 https://github.com/tihmstar/rootpipe_exploit
 Effortless and universal SSL pinning for iOS and OS X
 https://github.com/datatheorem/TrustKit
+iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution
+https://github.com/maciekish/iReSign
 Dylib插入Mach-O文件
 https://github.com/Tyilo/insert_dylib
 Binary distribution of the libimobiledevice library for Mac OS X
