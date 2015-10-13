@@ -65,6 +65,8 @@ IOS IPA package refine and resign
 https://github.com/Yonsm/iPAFine
 ROP Exploitation
 https://github.com/JonathanSalwan/ROPgadget
+Class-dump any Mach-o file without extracting it from dyld_shared_cache
+https://github.com/limneos/classdump-dyld
 Scan an IPA file and parses its info.plist
 https://github.com/apperian/iOS-checkIPA
 A PoC Mach-O infector via library injection
