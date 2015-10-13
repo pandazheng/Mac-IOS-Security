@@ -21,6 +21,7 @@ http://bbs.pediy.com
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
 http://ho.ax/posts/2012/02/resolving-kernel-symbols/
+http://www.securitylearn.net/tag/pentesting-ios-apps/
 https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/
 https://github.com/secmobi/wiki.secmobi.com
 http://bbs.iosre.com/t/debugserver-lldb-gdb/65
