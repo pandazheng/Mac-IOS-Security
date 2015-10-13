@@ -47,6 +47,8 @@ Effortless and universal SSL pinning for iOS and OS X
 https://github.com/datatheorem/TrustKit
 iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution
 https://github.com/maciekish/iReSign
+A Mach-O Load Command deobfuscator
+https://github.com/x43x61x69/Mach-O-Prettifier
 Dylib插入Mach-O文件
 https://github.com/Tyilo/insert_dylib
 Binary distribution of the libimobiledevice library for Mac OS X
