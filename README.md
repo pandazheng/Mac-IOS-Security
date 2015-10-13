@@ -51,6 +51,10 @@ A Mach-O Load Command deobfuscator
 https://github.com/x43x61x69/Mach-O-Prettifier
 Dylib插入Mach-O文件
 https://github.com/Tyilo/insert_dylib
+dylib injector for mach-o binaries
+https://github.com/KJCracks/yololib
+Fast iOS executable dumper
+https://github.com/KJCracks/Clutch
 Binary distribution of the libimobiledevice library for Mac OS X
 https://github.com/benvium/libimobiledevice-macosx
 python utilities related to dylib hijacking on OS X
