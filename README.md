@@ -45,6 +45,8 @@ Apple OS X ROOT提权API后门
 https://github.com/tihmstar/rootpipe_exploit
 Effortless and universal SSL pinning for iOS and OS X
 https://github.com/datatheorem/TrustKit
+Patch PE, ELF, Mach-O binaries with shellcode
+https://github.com/secretsquirrel/the-backdoor-factory
 iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution
 https://github.com/maciekish/iReSign
 A Mach-O Load Command deobfuscator
