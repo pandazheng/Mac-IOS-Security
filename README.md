@@ -4,6 +4,7 @@ IOS安全学习资料汇总
 http://samdmarshall.com
 https://www.exploit-db.com
 https://reverse.put.as
+http://highaltitudehacks.com/security/
 http://www.securitylearn.net/archives/
 http://securitycompass.github.io/iPhoneLabs/index.html
 http://security.ios-wiki.com
