@@ -18,6 +18,8 @@ http://bbs.chinapyg.com
 http://blog.pangu.io/ 
 http://yonsm.net/
 http://nianxi.net/
+http://cocoahuke.com/
+https://blog.0xbbc.com
 https://github.com/pandazheng/iOSAppReverseEngineering
 http://drops.wooyun.org
 http://bbs.pediy.com
