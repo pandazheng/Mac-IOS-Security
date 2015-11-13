@@ -40,6 +40,7 @@ http://www.blogfshare.com/category/ios-secure
 https://www.safaribooksonline.com/library/view/hacking-and-securing/9781449325213/ch08s04.html
 http://soundly.me/osx-injection-override-tutorial-hello-world/
 https://nadavrub.wordpress.com/2015/07/23/injecting-code-to-an-ios-appstore-app/
+http://blog.dewhurstsecurity.com/
 
 
 (3)	IOS安全优秀GitHub
