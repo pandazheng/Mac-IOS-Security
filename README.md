@@ -41,7 +41,8 @@ https://www.safaribooksonline.com/library/view/hacking-and-securing/978144932521
 http://soundly.me/osx-injection-override-tutorial-hello-world/
 https://nadavrub.wordpress.com/2015/07/23/injecting-code-to-an-ios-appstore-app/
 http://blog.dewhurstsecurity.com/
-
+https://github.com/project-imas
+https://github.com/iSECPartners
 
 (3)	IOS安全优秀GitHub
 Contains all example codes for O'Reilly's iOS 9 Swift Programming Cookbook 
