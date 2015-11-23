@@ -175,6 +175,8 @@ Manage iOS devices through iTunes lib
 https://github.com/xslim/mobileDeviceManager
 Detects the hardware, software and display of the current iOS or Mac OS X device at runtime
 https://github.com/lmirosevic/GBDeviceInfo
+Python Arsenal for Reverse Engineering
+http://pythonarsenal.com/
 
 (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》
