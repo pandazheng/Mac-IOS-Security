@@ -25,6 +25,7 @@ https://github.com/pandazheng/iOSAppReverseEngineering
 http://drops.wooyun.org
 http://bbs.pediy.com
 https://github.com/michalmalik/osx-re-101
+http://blog.qwertyoruiop.com/
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
