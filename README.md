@@ -28,6 +28,7 @@ https://github.com/michalmalik/osx-re-101
 http://blog.qwertyoruiop.com/
 https://github.com/secmobi/wiki.secmobi.com
 http://contagioexchange.blogspot.com/
+http://contagiominidump.blogspot.com/
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
