@@ -33,6 +33,7 @@ https://github.com/secmobi
 https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Guide_Development_Project
 http://blog.dornea.nu/2014/10/29/howto-ios-apps-static-analysis/
 http://www.dllhook.com/post/58.html
+http://thexploit.com/category/secdev/
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
