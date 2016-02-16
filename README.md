@@ -35,6 +35,7 @@ http://blog.dornea.nu/2014/10/29/howto-ios-apps-static-analysis/
 http://www.dllhook.com/post/58.html
 http://thexploit.com/category/secdev/
 https://github.com/secmobi/wiki.secmobi.com
+https://github.com/mdsecresearch
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
