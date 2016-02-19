@@ -24,6 +24,7 @@ http://blog.imaou.com/
 https://github.com/pandazheng/iOSAppReverseEngineering
 http://drops.wooyun.org
 http://bbs.pediy.com
+http://www.blogfshare.com/
 https://github.com/michalmalik/osx-re-101
 http://blog.qwertyoruiop.com/
 https://github.com/secmobi/wiki.secmobi.com
