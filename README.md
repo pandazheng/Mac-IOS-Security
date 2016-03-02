@@ -43,6 +43,7 @@ http://googleprojectzero.blogspot.com/2014/10/more-mac-os-x-and-iphone-sandbox.h
 http://www.macexploit.com/
 https://code.google.com/p/google-security-research/issues/list?can=1&q=iOS&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary
 https://code.google.com/p/google-security-research/issues/list?can=1&q=OSX&sort=-id&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles
+http://googleprojectzero.blogspot.com/2014/11/pwn4fun-spring-2014-safari-part-ii.html
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
