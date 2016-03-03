@@ -46,6 +46,7 @@ https://code.google.com/p/google-security-research/issues/list?can=1&q=OSX&sort=
 http://googleprojectzero.blogspot.com/2014/11/pwn4fun-spring-2014-safari-part-ii.html
 https://www.blackhat.com/docs/us-15/materials/us-15-Lei-Optimized-Fuzzing-IOKit-In-iOS-wp.pdf
 https://www.youtube.com/watch?v=rxUgw5bEG3Y
+https://www.theiphonewiki.com/wiki/Firmware
 
 (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/
