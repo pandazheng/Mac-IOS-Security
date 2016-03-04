@@ -1,8 +1,8 @@
 # IosHackStudy
 ## IOS安全学习资料汇总
 ### (1)	IOS安全学习网站收集：
-[http://samdmarshall.com](http://samdmarshall.com) 
-[https://www.exploit-db.com](https://www.exploit-db.com) 
+http://samdmarshall.com 
+https://www.exploit-db.com
 https://reverse.put.as
 http://highaltitudehacks.com/security/
 http://www.dllhook.com/
