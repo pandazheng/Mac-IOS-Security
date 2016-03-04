@@ -223,3 +223,9 @@ http://pythonarsenal.com/
 https://twitter.com/Technologeeks  
 https://twitter.com/osxreverser  
 https://twitter.com/Morpheus______  
+
+
+
+--------------------------------------------------
+### Mac下的一些软件  
+http://sqwarq.com/detectx/  
