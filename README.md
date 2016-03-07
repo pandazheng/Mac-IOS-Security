@@ -49,7 +49,14 @@ https://www.youtube.com/watch?v=rxUgw5bEG3Y
 https://www.theiphonewiki.com/wiki/Firmware  
 http://www.trustedbsd.org/mac.html  
 http://googleprojectzero.blogspot.com/2014/10/more-mac-os-x-and-iphone-sandbox.html  
-https://code.google.com/p/google-security-research/issues/list?can=1&q=OSX&sort=-id&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles
+https://code.google.com/p/google-security-research/issues/list?can=1&q=OSX&sort=-id&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles  
+https://support.apple.com/zh-cn/HT205731  
+https://www.apple.com/support/security/  
+http://opensource.apple.com/tarballs/  
+https://mobile-security.zeef.com/oguzhan.topgu  
+http://www.powerofcommunity.net  
+http://cn.0day.today/exploits  
+
 
 ### (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/  
