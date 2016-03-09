@@ -59,6 +59,7 @@ http://cn.0day.today/exploits
 https://recon.cx/2016/training/trainingios-osx.html  
 https://www.exploit-db.com/osx-rop-exploits-evocam-case-study/  
 https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/  
+https://www.yumpu.com/en/document/view/7010924/ios-kernel-heap-armageddon
 
 
 ### (2)	IOS安全优秀博客文章
