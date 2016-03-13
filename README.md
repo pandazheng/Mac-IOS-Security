@@ -60,7 +60,8 @@ https://recon.cx/2016/training/trainingios-osx.html
 https://www.exploit-db.com/osx-rop-exploits-evocam-case-study/  
 https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/  
 https://www.yumpu.com/en/document/view/7010924/ios-kernel-heap-armageddon  
-http://contagiodump.blogspot.com/
+http://contagiodump.blogspot.com/  
+http://www.dllhook.com/post/138.html
 
 
 ### (2)	IOS安全优秀博客文章
