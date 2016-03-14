@@ -62,7 +62,7 @@ https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 https://www.yumpu.com/en/document/view/7010924/ios-kernel-heap-armageddon  
 http://contagiodump.blogspot.com/  
 http://www.dllhook.com/post/138.html
-
+http://shell-storm.org/blog/Return-Oriented-Programming-and-ROPgadget-tool/  
 
 ### (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/  
