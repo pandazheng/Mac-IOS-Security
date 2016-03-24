@@ -63,6 +63,8 @@ https://www.yumpu.com/en/document/view/7010924/ios-kernel-heap-armageddon
 http://contagiodump.blogspot.com/  
 http://www.dllhook.com/post/138.html
 http://shell-storm.org/blog/Return-Oriented-Programming-and-ROPgadget-tool/  
+https://medium.com/@harryworld/100-days-of-osx-development-e61591fcb8c8#.vxyuyse12  
+
 
 ### (2)	IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/  
