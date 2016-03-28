@@ -224,6 +224,9 @@ Detects the hardware, software and display of the current iOS or Mac OS X device
 https://github.com/lmirosevic/GBDeviceInfo  
 Python Arsenal for Reverse Engineering  
 http://pythonarsenal.com/  
+A OS X crypto ransomware PoC  
+https://github.com/gdbinit/gopher  
+
 
 ### (4)	IOS安全优秀书籍
 《Hacking and Securing iOS Applications》  
