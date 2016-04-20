@@ -64,6 +64,7 @@ http://contagiodump.blogspot.com/
 http://www.dllhook.com/post/138.html  
 http://shell-storm.org/blog/Return-Oriented-Programming-and-ROPgadget-tool/  
 https://medium.com/@harryworld/100-days-of-osx-development-e61591fcb8c8#.vxyuyse12  
+http://www.poboke.com/study/reverse  
 
 
 ### (2)	IOS安全优秀博客文章
