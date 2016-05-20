@@ -248,6 +248,20 @@ https://twitter.com/osxreverser
 https://twitter.com/Morpheus______  
 
 
+### (6) OSX/IOS Exploit分析文章  
+CVE-2016-1749  
+http://turingh.github.io/2016/04/29/CVE-2016-1749%E5%86%85%E6%A0%B8%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8CPOC%E5%88%86%E6%9E%90/ 
+
+CVE-2016-1757  
+http://googleprojectzero.blogspot.com/2016/03/race-you-to-kernel.html  
+https://github.com/gdbinit/mach_race  
+
+CVE-2016-1824  
+http://marcograss.github.io/security/apple/cve/2016/05/16/cve-2016-1824-apple-iohidfamily-racecondition.html  
+
+
+
+
 
 --------------------------------------------------
 ### Mac下的一些软件  
