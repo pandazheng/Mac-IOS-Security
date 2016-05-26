@@ -65,6 +65,9 @@ http://www.dllhook.com/post/138.html
 http://shell-storm.org/blog/Return-Oriented-Programming-and-ROPgadget-tool/  
 https://medium.com/@harryworld/100-days-of-osx-development-e61591fcb8c8#.vxyuyse12  
 http://www.poboke.com/study/reverse  
+https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
+https://www.exploit-db.com/osx-rop-exploits-evocam-case-study/
+
 
 
 ### (2)	IOS安全优秀博客文章
