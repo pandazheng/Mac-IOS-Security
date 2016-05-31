@@ -67,6 +67,7 @@ https://medium.com/@harryworld/100-days-of-osx-development-e61591fcb8c8#.vxyuyse
 http://www.poboke.com/study/reverse  
 https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 https://www.exploit-db.com/osx-rop-exploits-evocam-case-study/
+http://phrack.org/issues/69/1.html  
 
 
 
