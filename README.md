@@ -68,6 +68,7 @@ http://www.poboke.com/study/reverse
 https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 https://www.exploit-db.com/osx-rop-exploits-evocam-case-study/
 http://phrack.org/issues/69/1.html  
+https://www.exploit-db.com/docs/28479.pdf
 
 
 
