@@ -270,7 +270,9 @@ http://marcograss.github.io/security/apple/cve/2016/05/16/cve-2016-1824-apple-io
 https://ipsw.me/all  
 https://www.alliphone.com  
 https://www.theiphonewiki.com/wiki/Firmware_Keys  
-
+http://pastebin.com/FRMfanmT
+https://www.reddit.com/r/jailbreak/comments/4nyz1p/discussion_decrypted_kernel_cache_ios_10/d48cgd7
+https://www.nowsecure.com/blog/2014/04/14/ios-kernel-reversing-step-by-step/
 
 
 
