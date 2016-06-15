@@ -265,6 +265,10 @@ CVE-2016-1824
 http://marcograss.github.io/security/apple/cve/2016/05/16/cve-2016-1824-apple-iohidfamily-racecondition.html  
 
 
+###ipsw
+[ios10 ipsw](http://alliphone.com/2015/11/ios-10-download-links-ipsw.html)  
+https://ipsw.me/all  
+alliphone.com  
 
 
 
