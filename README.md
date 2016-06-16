@@ -264,6 +264,9 @@ https://github.com/gdbinit/mach_race
 CVE-2016-1824  
 http://marcograss.github.io/security/apple/cve/2016/05/16/cve-2016-1824-apple-iohidfamily-racecondition.html  
 
+[IOS越狱中使用到的漏洞列表](https://www.theiphonewiki.com/wiki/Jailbreak_Exploits#Exploits_which_are_used_in_order_to_jailbreak_8.x)  
+
+
 
 ###ipsw
 [ios10 ipsw](http://alliphone.com/2015/11/ios-10-download-links-ipsw.html)  
