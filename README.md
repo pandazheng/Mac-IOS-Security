@@ -232,6 +232,9 @@ Python Arsenal for Reverse Engineering
 http://pythonarsenal.com/  
 A OS X crypto ransomware PoC  
 https://github.com/gdbinit/gopher  
+Frida  
+https://codeshare.frida.re/  
+
 
 
 ### (4)	IOS安全优秀书籍
