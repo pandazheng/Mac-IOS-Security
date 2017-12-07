@@ -69,7 +69,9 @@ https://www.offensive-security.com/vulndev/evocam-remote-buffer-overflow-on-osx/
 https://www.exploit-db.com/osx-rop-exploits-evocam-case-study/  
 http://phrack.org/issues/69/1.html    
 https://www.exploit-db.com/docs/28479.pdf  
-https://speakerdeck.com/milkmix/ios-malware-myth-or-reality
+https://speakerdeck.com/milkmix/ios-malware-myth-or-reality  
+https://bbs.pediy.com/thread-223117.htm  
+
 
 
 ### (2)	IOS安全优秀博客文章
