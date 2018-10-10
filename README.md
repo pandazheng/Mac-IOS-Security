@@ -287,4 +287,8 @@ http://www.iphonehacks.com/download-iphone-ios-firmware
 
 --------------------------------------------------
 ### Mac下的一些软件  
-http://sqwarq.com/detectx/  
+http://sqwarq.com/detectx/
+
+### Mac下的安全软件
+https://objective-see.com/products.html  
+
