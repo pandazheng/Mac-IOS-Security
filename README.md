@@ -236,7 +236,8 @@ A OS X crypto ransomware PoC
 https://github.com/gdbinit/gopher  
 Frida  
 https://codeshare.frida.re/  
-
+源码级调试的XNU内核
+https://bbs.ichunqiu.com/thread-48301-1-1.html  
 
 
 ### (4)	IOS安全优秀书籍
