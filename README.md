@@ -238,6 +238,8 @@ Frida
 https://codeshare.frida.re/  
 源码级调试的XNU内核
 https://bbs.ichunqiu.com/thread-48301-1-1.html  
+Armor：一款功能强大的macOS Payload加密工具，可绕过大部分AV  
+https://www.freebuf.com/sectool/190620.html  
 
 
 ### (4)	IOS安全优秀书籍
