@@ -240,6 +240,8 @@ https://codeshare.frida.re/
 https://bbs.ichunqiu.com/thread-48301-1-1.html  
 Armor：一款功能强大的macOS Payload加密工具，可绕过大部分AV  
 https://www.freebuf.com/sectool/190620.html  
+使用radare2逆向iOS Swift应用程序  
+https://www.freebuf.com/articles/terminal/191595.html  
 
 
 ### (4)	IOS安全优秀书籍
