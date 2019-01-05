@@ -242,6 +242,11 @@ Armor：一款功能强大的macOS Payload加密工具，可绕过大部分AV
 https://www.freebuf.com/sectool/190620.html  
 使用radare2逆向iOS Swift应用程序  
 https://www.freebuf.com/articles/terminal/191595.html  
+Debugging macOS Kernel For Fun  
+https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/  
+
+
+
 
 
 ### (4)	IOS安全优秀书籍
