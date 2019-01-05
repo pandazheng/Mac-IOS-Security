@@ -244,9 +244,14 @@ https://www.freebuf.com/sectool/190620.html
 https://www.freebuf.com/articles/terminal/191595.html  
 Debugging macOS Kernel For Fun  
 https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/  
+MacMalware_2018  
+https://objective-see.com/downloads/MacMalware_2018.pdf  
 
 
 
+
+# Samples
+https://objective-see.com/malware.html#resources  
 
 
 ### (4)	IOS安全优秀书籍
