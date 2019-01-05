@@ -246,6 +246,8 @@ Debugging macOS Kernel For Fun
 https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/  
 MacMalware_2018  
 https://objective-see.com/downloads/MacMalware_2018.pdf  
+The best of OpenSource.Apple.Com for iOS  
+http://newosxbook.com/tools/iOSBinaries.html  
 
 
 
