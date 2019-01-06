@@ -248,6 +248,8 @@ MacMalware_2018
 https://objective-see.com/downloads/MacMalware_2018.pdf  
 The best of OpenSource.Apple.Com for iOS  
 http://newosxbook.com/tools/iOSBinaries.html  
+FortiAppMonitor：用于监控macOS上的系统活动的强大工具  
+https://www.freebuf.com/sectool/193258.html  
 
 
 
