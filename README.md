@@ -270,6 +270,7 @@ https://objective-see.com/malware.html#resources
 《IOS应用逆向工程》  
 《IOS取证实战》  
 《安全技术大系：IOS取证分析》  
+《macOS软件安全与逆向分析》
 
 ### (5)	IOS安全Twitter
 https://twitter.com/Technologeeks  
