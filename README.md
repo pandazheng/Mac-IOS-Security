@@ -313,3 +313,13 @@ http://sqwarq.com/detectx/
 ### Mac下的安全软件
 https://objective-see.com/products.html  
 
+
+
+---------------------------------------------------
+# Mac平台虚拟机软件UTM
+https://docs.getutm.app/
+https://getutm.app/
+https://mac.getutm.app/
+
+
+
