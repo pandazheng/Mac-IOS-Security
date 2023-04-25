@@ -1,6 +1,6 @@
 # Mac&IOS HackStudy
-## Mac&IOS安全学习资料汇总
-### (1)	Mac&IOS安全学习网站收集：
+# Mac&IOS安全学习资料汇总
+# Mac&IOS安全学习网站收集：
 http://samdmarshall.com   
 https://www.exploit-db.com  
 https://reverse.put.as  
@@ -74,7 +74,7 @@ https://bbs.pediy.com/thread-223117.htm
 
 
 
-### (2) Mac&IOS安全优秀博客文章
+# Mac&IOS安全优秀博客文章
 http://datatheorem.github.io/TrustKit/  
 http://ho.ax/posts/2012/02/resolving-kernel-symbols/  
 http://www.securitylearn.net/tag/pentesting-ios-apps/  
@@ -99,7 +99,7 @@ http://www.tanhao.me/pieces/1515.html/
 http://dongaxis.github.io/  
 https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/
 
-### (3)	Mac&IOS安全优秀GitHub
+# Mac&IOS安全优秀GitHub
 Contains all example codes for O'Reilly's iOS 9 Swift Programming Cookbook   
 https://github.com/vandadnp/iOS-9-Swift-Programming-Cookbook  
 XCodeGhost清除脚本  
@@ -254,12 +254,16 @@ https://www.freebuf.com/sectool/193258.html
 # LOOBins
 https://github.com/infosecB/LOOBins
 
+# Mac Forensic Tools
+A forensic evidence collection & analysis toolkit for OS X
+https://github.com/Yelp/osxcollector
 
-# Samples
+
+# Mac Malware Samples
 https://objective-see.com/malware.html#resources  
 
 
-### (4)	Mac&IOS安全优秀书籍
+# Mac&IOS安全优秀书籍
 《Hacking and Securing iOS Applications》  
 《Mac OS X and iOS Internals:To the Apple’s Core》  
 《OS X and iOS Kernel Programming》  
@@ -273,13 +277,13 @@ https://objective-see.com/malware.html#resources
 《安全技术大系：IOS取证分析》  
 《macOS软件安全与逆向分析》
 
-### (5)	Mac&IOS安全Twitter
+# Mac&IOS安全Twitter
 https://twitter.com/Technologeeks  
 https://twitter.com/osxreverser  
 https://twitter.com/Morpheus______  
 
 
-### (6) Mac/IOS Exploit分析文章  
+# Mac/IOS Exploit分析文章  
 CVE-2016-1749  
 http://turingh.github.io/2016/04/29/CVE-2016-1749%E5%86%85%E6%A0%B8%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8CPOC%E5%88%86%E6%9E%90/ 
 
@@ -294,7 +298,7 @@ http://marcograss.github.io/security/apple/cve/2016/05/16/cve-2016-1824-apple-io
 
 
 
-###ipsw
+# 越狱ipsw
 [ios10 ipsw](http://alliphone.com/2015/11/ios-10-download-links-ipsw.html)  
 https://ipsw.me/all  
 https://www.alliphone.com  
@@ -307,10 +311,10 @@ http://www.iphonehacks.com/download-iphone-ios-firmware
 
 
 --------------------------------------------------
-### Mac下的一些软件  
+# Mac下的一些软件  
 http://sqwarq.com/detectx/
 
-### Mac下的安全软件
+# Mac下的安全软件
 https://objective-see.com/products.html  
 
 
