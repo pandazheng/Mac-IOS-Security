@@ -250,6 +250,12 @@ The best of OpenSource.Apple.Com for iOS
 http://newosxbook.com/tools/iOSBinaries.html  
 FortiAppMonitor：用于监控macOS上的系统活动的强大工具  
 https://www.freebuf.com/sectool/193258.html  
+Introduction to macOS - Gatekeeper
+https://github.com/yo-yo-yo-jbo/macos_gatekeeper
+Introduction to macOS - the App sandbox
+https://github.com/yo-yo-yo-jbo/macos_sandbox
+Introduction to macOS - macOS App structure
+https://github.com/yo-yo-yo-jbo/macos_app_structure
 
 # LOOBins
 https://github.com/infosecB/LOOBins
