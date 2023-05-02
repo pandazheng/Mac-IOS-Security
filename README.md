@@ -269,6 +269,9 @@ https://github.com/Yelp/osxcollector
 https://github.com/phdphuc/mac-a-mal-cuckoo
 https://github.com/phdphuc/mac-a-mal
 
+# Mac OS X Memory Analysis Toolkit
+https://github.com/n0fate/volafox
+
 
 # macOS (& ios) Artifact Parsing Tool
 https://github.com/ydkhatri/mac_apt
