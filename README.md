@@ -260,6 +260,9 @@ https://github.com/yo-yo-yo-jbo/macos_app_structure
 # LOOBins
 https://github.com/infosecB/LOOBins
 
+# Darwin/macOS emulation layer for Linux
+https://github.com/darlinghq/darling
+
 # Mac Forensic Tools
 A forensic evidence collection & analysis toolkit for OS X
 
