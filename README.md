@@ -270,6 +270,9 @@ https://github.com/phdphuc/mac-a-mal-cuckoo
 https://github.com/phdphuc/mac-a-mal
 
 
+# macOS (& ios) Artifact Parsing Tool
+https://github.com/ydkhatri/mac_apt
+
 # Mac Malware Samples
 https://objective-see.com/malware.html#resources  
 
