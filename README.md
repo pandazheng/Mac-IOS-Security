@@ -268,6 +268,10 @@ A forensic evidence collection & analysis toolkit for OS X
 
 https://github.com/Yelp/osxcollector
 
+
+# macOS Internals
+https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
+
 # Mac SandBox 
 https://github.com/phdphuc/mac-a-mal-cuckoo
 https://github.com/phdphuc/mac-a-mal
