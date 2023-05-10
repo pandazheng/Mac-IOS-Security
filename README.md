@@ -269,6 +269,10 @@ A forensic evidence collection & analysis toolkit for OS X
 https://github.com/Yelp/osxcollector
 
 
+# Mac Malware Samples
+macOS Malware Collection
+https://github.com/objective-see/Malware
+
 # macOS Internals
 https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
 
