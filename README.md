@@ -286,6 +286,8 @@ https://github.com/phdphuc/mac-a-mal
 # Mac OS X Memory Analysis Toolkit
 https://github.com/n0fate/volafox
 
+# A collection of resources for OSX/iOS reverse engineering
+https://github.com/michalmalik/osx-re-101
 
 # macOS (& ios) Artifact Parsing Tool
 https://github.com/ydkhatri/mac_apt
