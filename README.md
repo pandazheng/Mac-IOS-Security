@@ -260,6 +260,9 @@ https://github.com/yo-yo-yo-jbo/macos_app_structure
 # LOOBins
 https://github.com/infosecB/LOOBins
 
+# A Tool For Digging Into Binary Files on macOS
+https://www.mothersruin.com/software/Archaeology/
+
 # Darwin/macOS emulation layer for Linux
 https://github.com/darlinghq/darling
 
