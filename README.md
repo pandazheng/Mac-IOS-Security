@@ -256,6 +256,8 @@ Introduction to macOS - the App sandbox
 https://github.com/yo-yo-yo-jbo/macos_sandbox
 Introduction to macOS - macOS App structure
 https://github.com/yo-yo-yo-jbo/macos_app_structure
+monitor macOS for malicious activity
+https://github.com/droe/xnumon
 
 # LOOBins
 https://github.com/infosecB/LOOBins
