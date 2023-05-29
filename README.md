@@ -291,6 +291,9 @@ https://github.com/phdphuc/mac-a-mal
 # Mac OS X Memory Analysis Toolkit
 https://github.com/n0fate/volafox
 
+# Open Source Tools & Mac Forensics
+https://sumuri.com/open-source-tools-mac-forensics/
+
 # A collection of resources for OSX/iOS reverse engineering
 https://github.com/michalmalik/osx-re-101
 
