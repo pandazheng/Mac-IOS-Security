@@ -99,6 +99,34 @@ http://www.tanhao.me/pieces/1515.html/
 http://dongaxis.github.io/  
 https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/
 
+# Mac&IOS技术研究文章
+源码级调试的XNU内核
+https://bbs.ichunqiu.com/thread-48301-1-1.html  
+Armor：一款功能强大的macOS Payload加密工具，可绕过大部分AV  
+https://www.freebuf.com/sectool/190620.html  
+使用radare2逆向iOS Swift应用程序  
+https://www.freebuf.com/articles/terminal/191595.html  
+Debugging macOS Kernel For Fun  
+https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/  
+MacMalware_2018  
+https://objective-see.com/downloads/MacMalware_2018.pdf  
+The best of OpenSource.Apple.Com for iOS  
+http://newosxbook.com/tools/iOSBinaries.html  
+FortiAppMonitor：用于监控macOS上的系统活动的强大工具  
+https://www.freebuf.com/sectool/193258.html  
+Introduction to macOS - Gatekeeper
+https://github.com/yo-yo-yo-jbo/macos_gatekeeper
+Introduction to macOS - the App sandbox
+https://github.com/yo-yo-yo-jbo/macos_sandbox
+Introduction to macOS - macOS App structure
+https://github.com/yo-yo-yo-jbo/macos_app_structure
+monitor macOS for malicious activity
+https://github.com/droe/xnumon
+Building a Custom Mach-O Memory Loader for macOS - Part 1
+https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/
+Restoring Dyld Memory Loading
+https://blog.xpnsec.com/restoring-dyld-memory-loading/
+
 # Mac&IOS安全优秀GitHub
 Contains all example codes for O'Reilly's iOS 9 Swift Programming Cookbook   
 https://github.com/vandadnp/iOS-9-Swift-Programming-Cookbook  
@@ -234,35 +262,9 @@ Python Arsenal for Reverse Engineering
 http://pythonarsenal.com/  
 A OS X crypto ransomware PoC  
 https://github.com/gdbinit/gopher  
-Frida  
-https://codeshare.frida.re/  
-源码级调试的XNU内核
-https://bbs.ichunqiu.com/thread-48301-1-1.html  
-Armor：一款功能强大的macOS Payload加密工具，可绕过大部分AV  
-https://www.freebuf.com/sectool/190620.html  
-使用radare2逆向iOS Swift应用程序  
-https://www.freebuf.com/articles/terminal/191595.html  
-Debugging macOS Kernel For Fun  
-https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/  
-MacMalware_2018  
-https://objective-see.com/downloads/MacMalware_2018.pdf  
-The best of OpenSource.Apple.Com for iOS  
-http://newosxbook.com/tools/iOSBinaries.html  
-FortiAppMonitor：用于监控macOS上的系统活动的强大工具  
-https://www.freebuf.com/sectool/193258.html  
-Introduction to macOS - Gatekeeper
-https://github.com/yo-yo-yo-jbo/macos_gatekeeper
-Introduction to macOS - the App sandbox
-https://github.com/yo-yo-yo-jbo/macos_sandbox
-Introduction to macOS - macOS App structure
-https://github.com/yo-yo-yo-jbo/macos_app_structure
-monitor macOS for malicious activity
-https://github.com/droe/xnumon
-Building a Custom Mach-O Memory Loader for macOS - Part 1
-https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/
-Restoring Dyld Memory Loading
-https://blog.xpnsec.com/restoring-dyld-memory-loading/
 
+# Frida（Mac & IOS调试工具)  
+https://codeshare.frida.re/  
 
 # LOOBins
 https://github.com/infosecB/LOOBins
