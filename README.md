@@ -314,8 +314,8 @@ https://objective-see.com/malware.html#resources
 Hunting for macOS attack techniques. Part 1 – Initial Access, Execution, Credential Access, Persistence
 https://speakerdeck.com/heirhabarov/hunting-for-macos-attack-techniques-part-1-initial-access-execution-credential-access-persistence
 
-# MacOS App 
-Introduction to macOS - macOS App structure
+# MacOS App  
+Introduction to macOS - macOS App structure  
 https://github.com/yo-yo-yo-jbo/macos_app_structure
 
 
