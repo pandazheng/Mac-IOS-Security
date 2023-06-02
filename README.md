@@ -100,7 +100,7 @@ http://dongaxis.github.io/
 https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/
 
 # Mac&IOS技术研究文章
-源码级调试的XNU内核 
+源码级调试的XNU内核  
 https://bbs.ichunqiu.com/thread-48301-1-1.html  
 Armor：一款功能强大的macOS Payload加密工具，可绕过大部分AV  
 https://www.freebuf.com/sectool/190620.html  
