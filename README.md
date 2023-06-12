@@ -262,6 +262,9 @@ Python Arsenal for Reverse Engineering
 http://pythonarsenal.com/  
 A OS X crypto ransomware PoC  
 https://github.com/gdbinit/gopher  
+destroyer of iOS kernelcaches
+https://github.com/0xAwayy/IDA_iOS_vtab_parser
+
 
 # Frida（Mac & IOS调试工具)  
 https://codeshare.frida.re/  
