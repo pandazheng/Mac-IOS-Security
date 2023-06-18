@@ -270,6 +270,9 @@ destroyer of iOS kernelcaches
 https://github.com/0xAwayy/IDA_iOS_vtab_parser
 WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information!
 https://github.com/objective-see/WhatsYourSign
+macOS (& ios) Artifact Parsing Tool
+https://github.com/ydkhatri/mac_apt/
+
 
 
 # Frida（Mac & IOS调试工具)  
