@@ -274,6 +274,14 @@ macOS (& ios) Artifact Parsing Tool
 https://github.com/ydkhatri/mac_apt/  
 macOS forensic timeline generator using the analysis result DBs of mac_apt  
 https://github.com/mnrkbys/ma2tl  
+ios-hacking
+https://github.com/topics/ios-hacking  
+iOS Pentesting  
+https://github.com/carlospolop/hacktricks/blob/master/mobile-pentesting/ios-pentesting/README.md  
+iOS Pentesting Checklist  
+https://book.hacktricks.xyz/mobile-pentesting/ios-pentesting-checklist
+  
+
 
 
 
