@@ -126,7 +126,7 @@ Building a Custom Mach-O Memory Loader for macOS - Part 1
 https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/  
 Restoring Dyld Memory Loading  
 https://blog.xpnsec.com/restoring-dyld-memory-loading/  
-Ios App Extraction & Analysis
+Ios App Extraction & Analysis  
 https://datalocaltmp.github.io/ios-app-extraction-analysis.html
 
 
@@ -267,13 +267,13 @@ http://pythonarsenal.com/
 A OS X crypto ransomware PoC    
 https://github.com/gdbinit/gopher  
 destroyer of iOS kernelcaches  
-https://github.com/0xAwayy/IDA_iOS_vtab_parser
+https://github.com/0xAwayy/IDA_iOS_vtab_parser  
 WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information!  
-https://github.com/objective-see/WhatsYourSign
-macOS (& ios) Artifact Parsing Tool  
-https://github.com/ydkhatri/mac_apt/
+https://github.com/objective-see/WhatsYourSign  
+macOS (& ios) Artifact Parsing Tool    
+https://github.com/ydkhatri/mac_apt/  
 macOS forensic timeline generator using the analysis result DBs of mac_apt  
-https://github.com/mnrkbys/ma2tl
+https://github.com/mnrkbys/ma2tl  
 
 
 
