@@ -272,6 +272,8 @@ WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on
 https://github.com/objective-see/WhatsYourSign
 macOS (& ios) Artifact Parsing Tool
 https://github.com/ydkhatri/mac_apt/
+macOS forensic timeline generator using the analysis result DBs of mac_apt
+https://github.com/mnrkbys/ma2tl
 
 
 
