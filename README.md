@@ -259,20 +259,20 @@ https://github.com/x43x61x69/Mach-O-Prettifier
 Very simple keylogger for self-quantifying on Mac OS X  
 https://github.com/dannvix/keylogger-osx  
 Manage iOS devices through iTunes lib  
-https://github.com/xslim/mobileDeviceManager  
-Detects the hardware, software and display of the current iOS or Mac OS X device at runtime  
+https://github.com/xslim/mobileDeviceManager    
+Detects the hardware, software and display of the current iOS or Mac OS X device at runtime    
 https://github.com/lmirosevic/GBDeviceInfo  
-Python Arsenal for Reverse Engineering  
+Python Arsenal for Reverse Engineering    
 http://pythonarsenal.com/  
-A OS X crypto ransomware PoC  
+A OS X crypto ransomware PoC    
 https://github.com/gdbinit/gopher  
-destroyer of iOS kernelcaches
+destroyer of iOS kernelcaches  
 https://github.com/0xAwayy/IDA_iOS_vtab_parser
-WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information!
+WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information!  
 https://github.com/objective-see/WhatsYourSign
-macOS (& ios) Artifact Parsing Tool
+macOS (& ios) Artifact Parsing Tool  
 https://github.com/ydkhatri/mac_apt/
-macOS forensic timeline generator using the analysis result DBs of mac_apt
+macOS forensic timeline generator using the analysis result DBs of mac_apt  
 https://github.com/mnrkbys/ma2tl
 
 
