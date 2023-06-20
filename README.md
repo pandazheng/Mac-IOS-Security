@@ -379,8 +379,7 @@ https://www.theiphonewiki.com/wiki/Firmware_Keys
 http://pastebin.com/FRMfanmT
 https://www.reddit.com/r/jailbreak/comments/4nyz1p/discussion_decrypted_kernel_cache_ios_10/d48cgd7
 https://www.nowsecure.com/blog/2014/04/14/ios-kernel-reversing-step-by-step/  
-http://www.iphonehacks.com/download-iphone-ios-firmware
-Tool
+http://www.iphonehacks.com/download-iphone-ios-firmware  
 https://github.com/pinauten/Fugu15
 
 
