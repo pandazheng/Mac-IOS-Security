@@ -295,6 +295,9 @@ https://github.com/Yelp/osxcollector
 # macOS Initial Access Payload Generator
 https://github.com/D00MFist/Mystikal
 
+# iOS Penetration Testing Cheat Sheet
+https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet
+
 
 # Mac Malware Samples
 macOS Malware Collection
