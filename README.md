@@ -128,6 +128,9 @@ Restoring Dyld Memory Loading
 https://blog.xpnsec.com/restoring-dyld-memory-loading/  
 Ios App Extraction & Analysis  
 https://datalocaltmp.github.io/ios-app-extraction-analysis.html
+MacOS Forensics DIY Style  
+https://aboutyou.tech/blog/macos-forensics-diy-style-3369868505dd/
+
 
 
 
