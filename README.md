@@ -98,6 +98,8 @@ http://lightbulbone.com/
 http://www.tanhao.me/pieces/1515.html/  
 http://dongaxis.github.io/  
 https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/
+https://blog.xpnsec.com/restoring-dyld-memory-loading/
+https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/
 
 # Mac&IOS技术研究文章
 源码级调试的XNU内核  
