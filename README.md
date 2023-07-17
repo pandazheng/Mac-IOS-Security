@@ -287,7 +287,9 @@ iOS Pentesting Checklist
 https://book.hacktricks.xyz/mobile-pentesting/ios-pentesting-checklist
   
 # Apple Source Code 
-https://opensource.apple.com/
+https://opensource.apple.com/  
+https://github.com/apple-oss-distributions
+
 
 
 # Frida（Mac & IOS调试工具)  
