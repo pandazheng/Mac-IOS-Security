@@ -315,6 +315,9 @@ https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts
 Forensic toolkit for iOS sysdiagnose feature
 https://github.com/EC-DIGIT-CSIRC/sysdiagnose
 
+# iOS Forensic Toolkit Tips & Tricks
+https://blog.elcomsoft.com/2023/07/ios-forensic-toolkit-tips-tricks/  
+
 
 https://github.com/Yelp/osxcollector
 
