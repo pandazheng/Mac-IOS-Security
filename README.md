@@ -308,6 +308,7 @@ https://github.com/darlinghq/darling
 
 # Mac Forensic Tools
 A forensic evidence collection & analysis toolkit for OS X
+https://github.com/Yelp/osxcollector
 
 # iOS Forensic Tools
 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
