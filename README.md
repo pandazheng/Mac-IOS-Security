@@ -311,17 +311,15 @@ A forensic evidence collection & analysis toolkit for OS X
 https://github.com/Yelp/osxcollector
 
 # iOS Forensic Tools
-MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-https://github.com/mvt-project/mvt
-iOS_sysdiagnose_forensic_scripts
-https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts
-Forensic toolkit for iOS sysdiagnose feature
+MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.  
+https://github.com/mvt-project/mvt  
+iOS_sysdiagnose_forensic_scripts  
+https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts  
+Forensic toolkit for iOS sysdiagnose feature  
 https://github.com/EC-DIGIT-CSIRC/sysdiagnose
 
 # iOS Forensic Toolkit Tips & Tricks
 https://blog.elcomsoft.com/2023/07/ios-forensic-toolkit-tips-tricks/  
-
-
 https://github.com/Yelp/osxcollector
 
 # macOS Initial Access Payload Generator
@@ -333,14 +331,14 @@ https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet
 
 
 # Mac Malware Samples
-macOS Malware Collection
+macOS Malware Collection  
 https://github.com/objective-see/Malware
 
 # macOS Internals
 https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
 
 # Mac SandBox 
-https://github.com/phdphuc/mac-a-mal-cuckoo
+https://github.com/phdphuc/mac-a-mal-cuckoo  
 https://github.com/phdphuc/mac-a-mal
 
 # Mac OS X Memory Analysis Toolkit
@@ -359,7 +357,7 @@ https://github.com/ydkhatri/mac_apt
 https://objective-see.com/malware.html#resources  
 
 # Hunting 
-Hunting for macOS attack techniques. Part 1 – Initial Access, Execution, Credential Access, Persistence
+Hunting for macOS attack techniques. Part 1 – Initial Access, Execution, Credential Access, Persistence  
 https://speakerdeck.com/heirhabarov/hunting-for-macos-attack-techniques-part-1-initial-access-execution-credential-access-persistence
 
 # MacOS App  
