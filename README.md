@@ -326,8 +326,9 @@ https://github.com/Yelp/osxcollector
 https://github.com/D00MFist/Mystikal
 
 # iOS Penetration Testing Cheat Sheet
-https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet
-
+https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet  
+MOBILE PENTESTING 101 – HOW TO SET UP YOUR IOS ENVIRONMENT
+https://securitycafe.ro/2023/06/12/mobile-pentesting-101-how-to-set-up-your-ios-environment/  
 
 
 # Mac Malware Samples
