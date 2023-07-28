@@ -287,6 +287,10 @@ iOS Pentesting Checklist
 https://book.hacktricks.xyz/mobile-pentesting/ios-pentesting-checklist  
 Run unsigned iOS app without actually installing it!  
 https://github.com/khanhduytran0/LiveContainer
+
+# 逆向分析
+Ios App Extraction & Analysis  
+https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/
   
 # Apple Source Code 
 https://opensource.apple.com/  
