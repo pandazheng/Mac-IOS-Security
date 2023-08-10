@@ -296,7 +296,8 @@ https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilo
 https://opensource.apple.com/  
 https://github.com/apple-oss-distributions
 
-
+# A curated list of awesome iOS application security resources.  
+https://github.com/Cy-clon3/awesome-ios-security
 
 # Frida（Mac & IOS调试工具)  
 https://codeshare.frida.re/  
