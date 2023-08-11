@@ -316,9 +316,9 @@ A forensic evidence collection & analysis toolkit for OS X
 https://github.com/Yelp/osxcollector
 
 # iOS Forensic Tools
-MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.  
-https://github.com/mvt-project/mvt    
-iOS_sysdiagnose_forensic_scripts    
+MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.    
+https://github.com/mvt-project/mvt      
+iOS_sysdiagnose_forensic_scripts      
 https://github.com/cheeky4n6monkey/iOS_sysdiagnose_forensic_scripts    
 Forensic toolkit for iOS sysdiagnose feature  
 https://github.com/EC-DIGIT-CSIRC/sysdiagnose
