@@ -286,7 +286,10 @@ https://github.com/carlospolop/hacktricks/blob/master/mobile-pentesting/ios-pent
 iOS Pentesting Checklist  
 https://book.hacktricks.xyz/mobile-pentesting/ios-pentesting-checklist  
 Run unsigned iOS app without actually installing it!  
-https://github.com/khanhduytran0/LiveContainer
+https://github.com/khanhduytran0/LiveContainer  
+IOSSecuritySuite
+https://github.com/securing/IOSSecuritySuite
+
 
 # 逆向分析
 Ios App Extraction & Analysis  
